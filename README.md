@@ -1,2 +1,4 @@
 # hellowrold-3
-Just for another repository
+
+Hi Humans!
+I like code 
